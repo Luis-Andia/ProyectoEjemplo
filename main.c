@@ -5,6 +5,8 @@ int main (void)
     // git fetch [Para descargar la informacion del clon]
     // git pull origin main [Extraer las actualizaciones de la nube]
     // git commit -am "mensaje" [Para guardar cambios locales]
+    // git push origin main  [Para guardar cambios en la nube]. En lugar el main va el nombre de la rama/branch
+    print("Cerrar ventana")
     // git push origin main  [Para guardar cambios en la nube]
 
     // Documentacion del Dev2
