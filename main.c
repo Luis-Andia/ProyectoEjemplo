@@ -7,4 +7,7 @@ int main (void)
     // git commit -am "mensaje" [Para guardar cambios locales]
     // git push origin main  [Para guardar cambios en la nube]. En lugar el main va el nombre de la rama/branch
     print("Cerrar ventana")
+    // git push origin main  [Para guardar cambios en la nube]
+
+    // Documentacion del Dev2
 }
