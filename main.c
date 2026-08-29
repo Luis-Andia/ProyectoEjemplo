@@ -6,4 +6,5 @@ int main (void)
     // git pull origin main [Extraer las actualizaciones de la nube]
     // git commit -am "mensaje" [Para guardar cambios locales]
     // git push origin main  [Para guardar cambios en la nube]
+    print("Cerrar ventana")
 }
